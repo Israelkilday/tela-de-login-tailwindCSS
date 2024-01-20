@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://Israelkilday.github.io/tela-de-login-tailwindcss",
   "scripts": {
     "dev": "npx tailwindcss -i ./styles/style.css -o ./dist/output.css --watch",
     "build:css": "npx tailwindcss -i ./styles/style.css -o ./dist/output.css",
